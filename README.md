@@ -20,7 +20,7 @@ A real-time chat application built with Chainlit and Anthropic's Claude 3.5 Sonn
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MuhammadRaffey/chainlit-try
 cd chainlit-try
 ```
 
