@@ -81,6 +81,7 @@ chainlit-try/
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
+[License](LICENSE)
 
 ## Acknowledgments
 
