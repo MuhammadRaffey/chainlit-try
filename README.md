@@ -82,11 +82,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Add your license here]
-
 ## Acknowledgments
 
 - [Chainlit](https://github.com/Chainlit/chainlit) for the chat interface framework
 - [Anthropic](https://www.anthropic.com/) for Claude 3.5 Sonnet API
-
-
