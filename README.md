@@ -11,7 +11,7 @@ A real-time chat application built with Chainlit and Anthropic's Claude 3.5 Sonn
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.11 or higher
 - An Anthropic API key
 - UV package manager (recommended)
 
